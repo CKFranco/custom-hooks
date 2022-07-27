@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import { useReducer } from "react"
-import { todoReducer } from "../todoReducer"
+import { todoReducer } from "./todoReducer"
 
 
 
